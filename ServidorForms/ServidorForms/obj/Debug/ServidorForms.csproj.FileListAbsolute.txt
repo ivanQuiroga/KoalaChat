@@ -1,0 +1,40 @@
+c:\users\a.quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\bin\Debug\ServidorForms.exe.config
+C:\Users\a.Quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\bin\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\bin\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\obj\Debug\ServidorForms.csprojResolveAssemblyReference.cache
+C:\Users\a.Quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\obj\Debug\ServidorForms.Properties.Resources.resources
+C:\Users\a.Quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\obj\Debug\ServidorForms.csproj.GenerateResource.Cache
+C:\Users\a.Quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\obj\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\documents\visual studio 2015\Projects\ServidorForms\ServidorForms\obj\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms\ServidorForms\obj\Debug\ServidorForms.Form_Inicio.resources
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms\ServidorForms\obj\Debug\ServidorForms.Form_Servidor.resources
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\bin\Debug\ServidorForms.exe.config
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.csprojResolveAssemblyReference.cache
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.Form_Inicio.resources
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.Form_Servidor.resources
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.Properties.Resources.resources
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.csproj.GenerateResource.Cache
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\bin\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\Documents\Visual Studio 2015\Projects\ServidorForms - Intento dos\ServidorForms\bin\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\bin\Debug\ServidorForms.exe.config
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\bin\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\bin\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.csprojResolveAssemblyReference.cache
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.Form_Inicio.resources
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.Form_Servidor.resources
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.Properties.Resources.resources
+C:\Users\a.Quiroga\Google Drive\Linde\C# - Chat\ServidorForms - Intento dos\ServidorForms - Intento dos\ServidorForms\obj\Debug\ServidorForms.csproj.GenerateResource.Cache
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\bin\Debug\ServidorForms.exe.config
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\obj\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\obj\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\bin\Debug\ServidorForms.exe
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\bin\Debug\ServidorForms.pdb
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\obj\Debug\ServidorForms.csprojResolveAssemblyReference.cache
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\obj\Debug\ServidorForms.Form_Inicio.resources
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\obj\Debug\ServidorForms.Form_Servidor.resources
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\obj\Debug\ServidorForms.Properties.Resources.resources
+C:\Users\a.Quiroga\Google Drive\Linde\Chat Java-C#\ServidorForms\ServidorForms\obj\Debug\ServidorForms.csproj.GenerateResource.Cache
